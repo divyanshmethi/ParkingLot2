@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d0c43cd-61a5-4e95-b739-b36b0b885ba5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/parkinglot/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/parkinglot/exception/InvalidVehicleTypeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/parkinglot/exception/NoFreeSlotException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/parkinglot/model/ParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/parkinglot/model/ParkingSpotFourWheeler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/parkinglot/model/ParkingSpotTwoWheeler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/parkinglot/model/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/parkinglot/model/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/parkinglot/model/VehicleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/parkinglot/service/ParkingManagerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/parkinglot/service/ParkingSpotManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/parkinglot/service/ParkingSpotManagerFourWheeler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/parkinglot/service/ParkingSpotManagerTwoWheeler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/parkinglot/service/VehicleEntryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/parkinglot/service/VehicleExitManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/parkinglot/strategy/parkingStrategy/IParkingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/parkinglot/strategy/parkingStrategy/ParkingStrategyNearEntrance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/parkinglot/strategy/pricingStrategy/IPricingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/parkinglot/strategy/pricingStrategy/PricingStrategyFixed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/parkinglot/strategy/pricingStrategy/PricingStrategyHourly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/parkinglot/utils/IdGenerator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MGmcqgKWNIPP1KesgytOiOgy6N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.parkinglot.model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.parkinglot.Main" />
+      <module name="ParkingLot2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.parkinglot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d0c43cd-61a5-4e95-b739-b36b0b885ba5" name="Changes" comment="" />
+      <created>1677402376898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677402376898</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
